@@ -1,0 +1,69 @@
+#EXTM3U
+#EXTINF:0 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_PREMIUM_Digital_Mono.png" group-title="SPORTS Channel",Bein Sports1 (Premium) 720p
+http://f11.anfalrou.xyz/live/6161655001/index.m3u8?
+#EXTINF:0 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_PREMIUM_Digital_Mono.png" group-title="SPORTS Channel",Bein Sports1 (Premium) 360p
+http://f17.anfalrou.xyz/live/88824257001/index.m3u8?
+#EXTINF:0 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_PREMIUM_Digital_Mono.png" group-title="SPORTS Channel",Bein Sports1 (Premium) 244p
+http://f17.anfalrou.xyz/live/97848484001/index.m3u8?
+#EXTINF:0 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_PREMIUM_Digital_Mono.png" group-title="SPORTS Channel",Bein Sports2 (Premium) 720p
+http://f18.anfalrou.xyz/live/6161949870/index.m3u8?
+#EXTINF:0 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_PREMIUM_Digital_Mono.png" group-title="SPORTS Channel",Bein Sports2 (Premium) 360p
+http://f10.anfalrou.xyz/live/794812450/index.m3u8?
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_PREMIUM_Digital_Mono.png" group-title="SPORTS Channel",04. BEIN SPORTS2 PREMIUM
+http://f14.anfalrou.xyz/live/1222338880/index.m3u8?
+#EXTINF:0 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_PREMIUM_Digital_Mono.png" group-title="SPORTS Channel",Bein Sports3 (Premium) 720p
+http://f18.anfalrou.xyz/live/61512788870/index.m3u8?
+#EXTINF:0 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_PREMIUM_Digital_Mono.png" group-title="SPORTS Channel",Bein Sports3 (Premium) 360p
+http://f12.anfalrou.xyz/live/179885580/index.m3u8?
+#EXTINF:0 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_PREMIUM_Digital_Mono.png" group-title="SPORTS Channel",Bein Sports3 (Premium) 244p
+http://f3.anfalrou.xyz/live/8197978770/index.m3u8?
+#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5exn7j1631279352.png" group-title="SPORTS Channel",Bein Sports1 720p
+http://f1.anfalrou.xyz/live/918454578001/index.m3u8?
+#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5exn7j1631279352.png" group-title="SPORTS Channel",Bein Sports1 360p
+http://f9.anfalrou.xyz/live/978488877001/index.m3u8?
+#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5exn7j1631279352.png" group-title="SPORTS Channel",Bein Sports1 244p
+http://f14.anfalrou.xyz/live/31009988001/index.m3u8?
+#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/x7ynw61631279400.png" group-title="SPORTS Channel",Bein Sports2 720p
+http://f15.anfalrou.xyz/live/69854211/index.m3u8?
+#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/x7ynw61631279400.png" group-title="SPORTS Channel",Bein Sports2 360p
+http://f13.anfalrou.xyz/live/10011244/index.m3u8?
+#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/fwzxmq1631279374.png" group-title="SPORTS Channel",Bein Sports3 720p
+http://f17.anfalrou.xyz/live/645587700/index.m3u8
+#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/fwzxmq1631279374.png" group-title="SPORTS Channel",Bein Sport3 360p
+http://f16.anfalrou.xyz/live/161988840/index.m3u8?
+#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/op3ejs1631279425.png" group-title="SPORTS Channel",Bein Sports4 720p
+http://f7.anfalrou.xyz/live/9787488847/index.m3u8?
+#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/op3ejs1631279425.png" group-title="SPORTS Channel",Bein Sports4 360p
+http://f6.anfalrou.xyz/live/0103088447/index.m3u8?
+#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/op3ejs1631279425.png" group-title="SPORTS Channel",Bein Sports4 244p
+http://f17.anfalrou.xyz/live/131326625/index.m3u8?
+#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/93010o1631279441.png" group-title="SPORTS Channel",Bein Sports5 720p
+http://f5.anfalrou.xyz/live/610303030/index.m3u8?t=-rcnyeb0VtHGncfFjEyeFg&e=1638842426
+#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/93010o1631279441.png" group-title="SPORTS Channel",Bein Sports5 360p
+http://f14.anfalrou.xyz/live/115451004/index.m3u8?
+#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/93010o1631279441.png" group-title="SPORTS Channel",Bein Sports5-720p
+http://f16.anfalrou.xyz/live/181818444/index.m3u8?
+#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/6kxiv31631279450.png" group-title="SPORTS Channel",Bein Sports6 720p
+http://f14.anfalrou.xyz/live/1515000000/index.m3u8?
+#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/6kxiv31631279450.png" group-title="SPORTS Channel",Bein Sports6 360p
+http://f10.anfalrou.xyz/live/788550011/index.m3u8?
+#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/6kxiv31631279450.png" group-title="SPORTS Channel",Bein Sports6 244p
+http://f5.anfalrou.xyz/live/9883322/index.m3u8?
+#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/0s8vk11631279469.png" group-title="SPORTS Channel",Bein Sports7 720p
+http://f1.anfalrou.xyz/live/791001144/index.m3u8?t=Hxcn7PvlQTpQmqrPqJZB1A&e=1638844524
+#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/0s8vk11631279469.png" group-title="SPORTS Channel",Bein Sports7 360p
+http://f14.anfalrou.xyz/live/100666696/index.m3u8?
+#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/0s8vk11631279469.png" group-title="SPORTS Channel", Bein Sports7 244p
+http://f8.anfalrou.xyz/live/130306224/index.m3u8?
+#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/n7f8ev1600884470.png" group-title="SPORTS Channel",Bein Sports XTRA1 720p
+http://f14.anfalrou.xyz/live/996256440/index.m3u8?
+#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/n7f8ev1600884470.png" group-title="SPORTS Channel",Bein Sports XTRA1 360p
+http://f11.anfalrou.xyz/live/50002555/index.m3u8?
+#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/n7f8ev1600884470.png" group-title="SPORTS Channel",Bein Sports XTRA1 244p
+http://f7.anfalrou.xyz/live/77000254/index.m3u8?
+#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/n7f8ev1600884470.png" group-title="SPORTS Channel",Bein Sports XTRA2 720p
+http://f7.anfalrou.xyz/live/8800255521/index.m3u8?
+#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/n7f8ev1600884470.png" group-title="SPORTS Channel",Bein Sports XTRA2 360p
+http://f7.anfalrou.xyz/live/51514003371/index.m3u8?
+#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/n7f8ev1600884470.png" group-title="SPORTS Channel",Bein Sports XTRA2 244p
+http://f7.anfalrou.xyz/live/9982225541/index.m3u8?
