@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:0,Sakib
+#EXTINF:0 group-title="SAKIB", LiVe
 http://lol.
 
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/06/alponatv.jpg" group-title="Bangladesh",Alpona Tv
