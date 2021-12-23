@@ -18,8 +18,9 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 http://103.159.4.38:8080/BD-BANGLA-6/index.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Bangladesh"tvg-logo="https://s4.gifyu.com/images/image2b075f0e0fd37461.png",ATN News
-#http://103.159.4.38:8080/BD-BANGLA-14/index.m3u8
 https://rhridoy136.shortcm.li/atnnews.m3u8
+http://103.159.4.38:8080/BD-BANGLA-14/index.m3u8
+
 
 #EXTINF:0 tvg-id="ext" group-title="Bangladesh"tvg-logo="https://2.bp.blogspot.com/-X3GWMRvX6j0/Vtl5BL2Pu0I/AAAAAAAAAHo/8Sou_MnsF9w/s1600/BTV%2BLive.gif",Btv World
 http://103.106.2.149:13456/btv_world.m3u8
