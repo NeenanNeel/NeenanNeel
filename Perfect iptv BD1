@@ -13,7 +13,7 @@ https://bal.varcdn1.ru/lb/m1/index.m3u8
 http://lol.
 
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/Serie_A_TIM_2021.svg/revision/latest/scale-to-width-down/140?cb=20210818153740" group-title="LIVE", Serie A
-http://lol.
+http://cdn2.cyclingnews.live/hls/P1.m3u8
 
 
 
@@ -38,6 +38,7 @@ http://103.159.4.38:8080/BD-BANGLA-6/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Bangladesh"tvg-logo="https://s4.gifyu.com/images/image2b075f0e0fd37461.png",ATN News
 https://rhridoy136.shortcm.li/atnnews.m3u8
 http://103.159.4.38:8080/BD-BANGLA-14/index.m3u8
+
 
 #EXTINF:0 tvg-id="ext" group-title="Bangladesh"tvg-logo="https://2.bp.blogspot.com/-X3GWMRvX6j0/Vtl5BL2Pu0I/AAAAAAAAAHo/8Sou_MnsF9w/s1600/BTV%2BLive.gif",Btv World
 http://103.106.2.149:13456/btv_world.m3u8
@@ -440,8 +441,11 @@ http://stream.arylive.com/arymusik/myStream/tracks-v2a1/mono.m3u8
         
         
 
-#EXTINF:0 tvg-id="ext" group-title="Islamic"tvg-logo="https://scontent.fcgp3-1.fna.fbcdn.net/v/t1.18169-9/p206x206/10516666_844195165593633_7927060723768656900_n.png?_nc_cat=106&ccb=1-5&_nc_sid=85a577&efg=eyJpIjoidCJ9&_nc_ohc=hkpxqsSWj4YAX-DaF7c&_nc_ht=scontent.fcgp3-1.fna&oh=3cb6f6289627abb7bef2bf5adcb28114&oe=61D75F51",ATN Islamic
+#EXTINF:0 tvg-id="ext" group-title="Islamic"tvg-logo="https://scontent.fcgp3-1.fna.fbcdn.net/v/t1.18169-9/p206x206/10516666_844195165593633_7927060723768656900_n.png?_nc_cat=106&ccb=1-5&_nc_sid=85a577&efg=eyJpIjoidCJ9&_nc_ohc=hkpxqsSWj4YAX-DaF7c&_nc_ht=scontent.fcgp3-1.fna&oh=3cb6f6289627abb7bef2bf5adcb28114&oe=61D75F51",1.ATNIslamic
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnislamictv.stream/live-orgin/atnislamictv.stream/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://scontent.fcgp3-1.fna.fbcdn.net/v/t1.18169-9/p206x206/10516666_844195165593633_7927060723768656900_n.png?_nc_cat=106&ccb=1-5&_nc_sid=85a577&efg=eyJpIjoidCJ9&_nc_ohc=hkpxqsSWj4YAX-DaF7c&_nc_ht=scontent.fcgp3-1.fna&oh=3cb6f6289627abb7bef2bf5adcb28114&oe=61D75F51" group-title="Islamic",2.ATN Islam
+PWdUZHowbUx6dG1iMWgyWXYwV1lsSkhkejVpZDBOV2F0RkdiemxtYjBGMkxKUkZVdWhHVXBGV00xY1ZZMEoxVmhOblJrMUdNVUIxTU9aVlpYWlVSVU5rU0ZwVlRXZDBZMlpXZU5wWFN4NGtlbEJUVnc4RVZhbEVlWGxsTTVZa1k2WlVaaDlXUmtkV1FVNWtOUnAzWlNaVFZFbDBSUFZFUk5sSE81NUVlNGtXVDVVVlJpQm5VM2dWZU4xV2IyWVZOajlTTTBRak90OTJZdVFtWXZkV1lxNXlkbGxtZDV0MmN3MVdaMDl5TDZNSGMwUkhh
 
 #EXTINF:-1 tvg-logo=""group-title="Islamic",Itv USA
 https://itvusabox-hls-01.dgo-nyc3.itvusa.tv/itvusabox/itvstream.m3u8
@@ -464,8 +468,7 @@ http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b180000
 #EXTINF:-1 group-title="Islamic" tvg-logo="",Wesal TV
 http://wowza58.indostreamserver.com:1935/wesaltv/live/playlist.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Islamic"tvg-logo="",ARY Qtv
-http://stream.arylive.com/aryqtv/myStream/tracks-v2a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Islamic"tvg-logo="",ARY Qtv http://stream.arylive.com/aryqtv/myStream/tracks-v2a1/mono.m3u8
 
       
       
@@ -483,7 +486,7 @@ https://www.dropbox.com/s/86zww54vybbqipw/Mr.%20Bean.mp4?raw=1
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8?token=soheliptv01826655778
 
 
-#EXTINF:0 tvg-id="ext" group-title="Kids"tvg-logo="",SONY YAY
+#EXTINF:0 tvg-id="ext" group-title="Kids Channel"tvg-logo="",sonyyay
 http://103.161.2.142/hls/sonyyay.m3u8
 
 
@@ -682,58 +685,49 @@ http://103.159.4.38:5868/BD-BANGLA-8/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Sports",AD Sports1
 http://103.159.4.38:5868/SPORTS-1/tracks-v1a1/mono.m3u8
+http://103.159.4.38:5868/SPORTS-6/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Sports",AD Sports2
 http://103.159.4.38:5868/SPORTS-2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Sports",❎
-http://103.159.4.38:5868/SPORTS-3/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Sports",❎
-http://103.159.4.38:5868/SPORTS-4/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Sports",❎
-http://103.159.4.38:5868/SPORTS-5/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Sports",AD Sports1
-http://103.159.4.38:5868/SPORTS-6/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Sports",SONY SIX
 http://103.159.4.38:5868/SPORTS-7/tracks-v1a1/mono.m3u8
+http://183.178.58.115:8022/0.m3u8
+https://durbinlive.com/live/jio/?c=Six_HD
+
 
 #EXTINF:-1 group-title="Sports",SONY TEN1
 http://103.159.4.38:5868/SPORTS-8/tracks-v1a1/mono.m3u8
+https://durbinlive.com/live/jio/?c=Ten_HD
+http://208.86.19.21/726.stream/index.m3u8
 
 #EXTINF:-1 group-title="Sports",SONY TEN2
 https://durbinlive.com/live/jio/?c=Ten2_HD
 
 #EXTINF:-1 group-title="Sports",SONY TEN3
 http://103.159.4.38:5868/SPORTS-9/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Sports",SONY TEN3
 http://103.159.4.38:5868/SPORTS-10/tracks-v1a1/mono.m3u8
+http://208.86.19.21/713.stream/index.m3u8
 
 #EXTINF:-1 group-title="Sports",SONY TEN4
 http://103.159.4.38:5868/SPORTS-11/tracks-v1a1/mono.m3u8
 https://durbinlive.com/live/jio/?c=Ten_4_HD_Tamil&=1200&e=.m3u8
 
-Star Sports 1HD
+#EXTINF:0 tvg-logo="" group-title="Sports",Star sports 1
+http://183.178.58.115:8019/0.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Sports",Star Sports 1 Hindi
 http://183.178.58.115:8016/0.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="Sports",Star sports 2
 http://183.178.58.115:8018/0.m3u8
-
-#EXTINF:0 tvg-logo="" group-title="Sports",Star sports 1
-http://183.178.58.115:8019/0.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="Sports",Star sports select 1
 http://183.178.58.115:8020/0.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="Sports",Star sports select 2
 http://183.178.58.115:8021/0.m3u8
-
-#EXTINF:0 tvg-logo="" group-title="Sports",SonySix
-http://183.178.58.115:8022/0.m3u8
 
 #EXTINF:-1 group-title="Sports",Sky Sports Cricket
 http://103.159.4.38:5868/SPORTS-12/tracks-v1a1/mono.m3u8
@@ -806,6 +800,7 @@ http://208.86.19.21:80/610.stream/index.m3u8
 http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
 
 #EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/xqwpww1436887616.png" group-title="SPORTS Channel",Real Madrid TV
+http://154.62.74.11:1935/live/realmadridnntv/chunklist.m3u8
 http://185.191.126.169:80/live/LfPdKKYE9k/yqCMLZS6h5/30598.m3u8
 
 
