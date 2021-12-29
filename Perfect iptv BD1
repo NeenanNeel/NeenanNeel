@@ -440,11 +440,8 @@ http://stream.arylive.com/arymusik/myStream/tracks-v2a1/mono.m3u8
         
         
 
-#EXTINF:0 tvg-id="ext" group-title="Islamic"tvg-logo="https://scontent.fcgp3-1.fna.fbcdn.net/v/t1.18169-9/p206x206/10516666_844195165593633_7927060723768656900_n.png?_nc_cat=106&ccb=1-5&_nc_sid=85a577&efg=eyJpIjoidCJ9&_nc_ohc=hkpxqsSWj4YAX-DaF7c&_nc_ht=scontent.fcgp3-1.fna&oh=3cb6f6289627abb7bef2bf5adcb28114&oe=61D75F51",1.ATNIslamic
+#EXTINF:0 tvg-id="ext" group-title="Islamic"tvg-logo="https://scontent.fcgp3-1.fna.fbcdn.net/v/t1.18169-9/p206x206/10516666_844195165593633_7927060723768656900_n.png?_nc_cat=106&ccb=1-5&_nc_sid=85a577&efg=eyJpIjoidCJ9&_nc_ohc=hkpxqsSWj4YAX-DaF7c&_nc_ht=scontent.fcgp3-1.fna&oh=3cb6f6289627abb7bef2bf5adcb28114&oe=61D75F51",ATN Islamic
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnislamictv.stream/live-orgin/atnislamictv.stream/chunks.m3u8
-
-#EXTINF:0 tvg-logo="https://scontent.fcgp3-1.fna.fbcdn.net/v/t1.18169-9/p206x206/10516666_844195165593633_7927060723768656900_n.png?_nc_cat=106&ccb=1-5&_nc_sid=85a577&efg=eyJpIjoidCJ9&_nc_ohc=hkpxqsSWj4YAX-DaF7c&_nc_ht=scontent.fcgp3-1.fna&oh=3cb6f6289627abb7bef2bf5adcb28114&oe=61D75F51" group-title="Islamic",2.ATN Islam
-PWdUZHowbUx6dG1iMWgyWXYwV1lsSkhkejVpZDBOV2F0RkdiemxtYjBGMkxKUkZVdWhHVXBGV00xY1ZZMEoxVmhOblJrMUdNVUIxTU9aVlpYWlVSVU5rU0ZwVlRXZDBZMlpXZU5wWFN4NGtlbEJUVnc4RVZhbEVlWGxsTTVZa1k2WlVaaDlXUmtkV1FVNWtOUnAzWlNaVFZFbDBSUFZFUk5sSE81NUVlNGtXVDVVVlJpQm5VM2dWZU4xV2IyWVZOajlTTTBRak90OTJZdVFtWXZkV1lxNXlkbGxtZDV0MmN3MVdaMDl5TDZNSGMwUkhh
 
 #EXTINF:-1 tvg-logo=""group-title="Islamic",Itv USA
 https://itvusabox-hls-01.dgo-nyc3.itvusa.tv/itvusabox/itvstream.m3u8
@@ -467,7 +464,8 @@ http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b180000
 #EXTINF:-1 group-title="Islamic" tvg-logo="",Wesal TV
 http://wowza58.indostreamserver.com:1935/wesaltv/live/playlist.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Islamic"tvg-logo="",ARY Qtv http://stream.arylive.com/aryqtv/myStream/tracks-v2a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Islamic"tvg-logo="",ARY Qtv
+http://stream.arylive.com/aryqtv/myStream/tracks-v2a1/mono.m3u8
 
       
       
