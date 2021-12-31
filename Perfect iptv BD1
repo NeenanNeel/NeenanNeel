@@ -806,3 +806,339 @@ http://185.191.126.169:80/live/LfPdKKYE9k/yqCMLZS6h5/30598.m3u8
 
 
 
+
+
+
+
+
+
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Entertainment", Colors HD 
+https://durbinlive.com:443/live/jio?c=Colors_HD&q=auto&e=IshanJiotv.m3u8
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Entertainment", Sony HD 
+https://durbinlive.com:443/live/jio?c=Sony_HD&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="Entertainment", Zee TV HD 
+https://durbinlive.com:443/live/jio?c=Zee_TV_HD&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="Entertainment", Sony SAB 
+https://durbinlive.com:443/live/jio?c=Sony_SAB&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="Entertainment", And TV HD 
+https://durbinlive.com:443/live/jio?c=And_TV_HD&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png" group-title="Entertainment", Rishtey 
+https://durbinlive.com:443/live/jio?c=Rishtey&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol.png" group-title="Entertainment", Zee Anmol 
+https://durbinlive.com:443/live/jio?c=Zee_Anmol&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="Entertainment", Sony Pal 
+https://durbinlive.com:443/live/jio?c=Sony_Pal&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="Entertainment", Sony SAB HD 
+https://durbinlive.com:443/live/jio?c=Sony_SAB_HD&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Epic_HD.png" group-title="Entertainment", Epic 
+https://durbinlive.com:443/live/jio?c=Epic_HD&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ID.PNG" group-title="Entertainment", Investigation Discovery 
+https://durbinlive.com:443/live/jio?c=ID&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_India.png" group-title="Entertainment", DD India 
+https://durbinlive.com:443/live/jio?c=DD_India&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_National.png" group-title="Entertainment", DD National 
+https://durbinlive.com:443/live/jio?c=DD_National&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dabangg.png" group-title="Entertainment", Dabangg 
+https://durbinlive.com:443/live/jio?c=Dabangg&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Madhya_Pradesh.png" group-title="Entertainment", DD Madhya Pradesh 
+https://durbinlive.com:443/live/jio?c=DD_Madhya_Pradesh&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Rajasthan_Jaipur.png" group-title="Entertainment", DD Rajasthan (Jaipur) 
+https://durbinlive.com:443/live/jio?c=DD_Rajasthan_Jaipur&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Pariwar.png" group-title="Entertainment", Raj Pariwar 
+https://durbinlive.com:443/live/jio?c=Raj_Pariwar&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Bihar.png" group-title="Entertainment", DD Bihar 
+https://durbinlive.com:443/live/jio?c=DD_Bihar&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Uttar_Pradesh.png" group-title="Entertainment", DD Uttar Pradesh 
+https://durbinlive.com:443/live/jio?c=DD_Uttar_Pradesh&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Arre.png" group-title="Entertainment", Arre HD 
+https://durbinlive.com:443/live/jio?c=Arre&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Andy_Haryana.png" group-title="Entertainment", Andy Haryana 
+https://durbinlive.com:443/live/jio?c=Andy_Haryana&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dillagi_TV.png" group-title="Entertainment", Dillagi TV 
+https://durbinlive.com:443/live/jio?c=Dillagi_TV&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dhamaal_TV.png" group-title="Entertainment", Dhamaal TV 
+https://durbinlive.com:443/live/jio?c=Dhamaal_TV&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Manoranjan_Grand.png" group-title="Entertainment", Manoranjan Grand 
+https://durbinlive.com:443/live/jio?c=Manoranjan_Grand&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="Entertainment", Sony Wah 
+https://durbinlive.com:443/live/jio?c=Sony_Wah&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SD.png" group-title="Entertainment", Sony SD 
+https://durbinlive.com:443/live/jio?c=Sony_SD&q=auto&e=IshanJiotv.m3u8 
+
+
+
+
+
+
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Movies1", Sony Max HD 
+https://durbinlive.com:443/live/jio?c=Sony_Max_HD&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SET_MAX.png" group-title="Movies1", Sony Max SD 
+https://durbinlive.com:443/live/jio?c=Sony_Max_SD&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="Movies1", Zee Cinema HD 
+https://durbinlive.com:443/live/jio?c=Zee_Cinema_HD&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png" group-title="Movies1", Colors Cineplex 
+https://durbinlive.com:443/live/jio?c=Colors_Cineplex&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="Movies1", Sony MAX2 
+https://durbinlive.com:443/live/jio?c=Sony_MAX2&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="Movies1", And Pictures HD 
+https://durbinlive.com:443/live/jio?c=And_Pictures_HD&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema.png" group-title="Movies1", Zee Cinema 
+https://durbinlive.com:443/live/jio?c=Zee_Cinema&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Movies.png" group-title="Movies1", B4U Movies 
+https://durbinlive.com:443/live/jio?c=B4U_Movies&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic.png" group-title="Movies1", Zee Bollywood 
+https://durbinlive.com:443/live/jio?c=Zee_Classic&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Enterr_10.png" group-title="Movies1", Enterr 10
+https://durbinlive.com:443/live/jio?c=Enterr_10&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png" group-title="Movies1", Zee Action 
+https://durbinlive.com:443/live/jio?c=Zee_Action&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png" group-title="Movies1", Zee Anmol Cinema 
+https://durbinlive.com:443/live/jio?c=Zee_Anmol_Cinema&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maha_Movies.png" group-title="Movies1", Maha Movies 
+https://durbinlive.com:443/live/jio?c=Maha_Movies&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Cinema.png" group-title="Movies1", Surya Cinema 
+https://durbinlive.com:443/live/jio?c=Surya_Cinema&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bflix_Movies.png" group-title="Movies1", Bflix Movies 
+https://durbinlive.com:443/live/jio?c=Bflix_Movies&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABZY_Dhakad.png" group-title="Movies1", ABZY Dhakad 
+https://durbinlive.com:443/live/jio?c=ABZY_Dhakad&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABZY_Cool.png" group-title="Movies1", ABZY Cool 
+https://durbinlive.com:443/live/jio?c=ABZY_Cool&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABZY_Movies.png" group-title="Movies1", ABZY Movies 
+https://durbinlive.com:443/live/jio?c=ABZY_Movies&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Box_Cinema.png" group-title="Movies1", Box Cinema 
+https://durbinlive.com:443/live/jio?c=Box_Cinema&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Manoranjan_TV.png" group-title="Movies1", Manoranjan TV 
+https://durbinlive.com:443/live/jio?c=Manoranjan_TV&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Kadak.png" group-title="Movies1", B4U Kadak 
+https://durbinlive.com:443/live/jio?c=B4U_Kadak&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png" group-title="Movies1", Rishtey Cineplex 
+https://durbinlive.com:443/live/jio?c=Rishtey_Cineplex&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="Movies1", Colors Cineplex HD 
+https://durbinlive.com:443/live/jio?c=Colors_Cineplex_HD&q=auto&e=IshanJiotv.m3u8 
+
+
+
+
+
+
+
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="Music1", MTV HD Plus 
+https://durbinlive.com:443/live/jio?c=MTV_HD_Plus&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="Music1", MTV Beats HD 
+https://durbinlive.com:443/live/jio?c=MTV_Beats_HD&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mastiii.png" group-title="Music1", Mastiii 
+https://durbinlive.com:443/live/jio?c=Mastiii&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zing.png" group-title="Music1", Zing 
+https://durbinlive.com:443/live/jio?c=Zing&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9XM.jpg" group-title="Music1", 9XM 
+https://durbinlive.com:443/live/jio?c=9XM&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/E_24.png" group-title="Music1", E 24 
+https://durbinlive.com:443/live/jio?c=E_24&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Music.png" group-title="Music1", B4U Music 
+https://durbinlive.com:443/live/jio?c=B4U_Music&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV.png" group-title="Music1", MTV 
+https://durbinlive.com:443/live/jio?c=MTV&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9X_Jalwa.png" group-title="Music1", 9X Jalwa 
+https://durbinlive.com:443/live/jio?c=9X_Jalwa&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Music_India.png" group-title="Music1", Music India 
+https://durbinlive.com:443/live/jio?c=Music_India&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Brit_Asia.png" group-title="Music1", Brit Asia 
+https://durbinlive.com:443/live/jio?c=Brit_Asia&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PEACE_MUSIC.png" group-title="Music1", PEACE MUSIC 
+https://durbinlive.com:443/live/jio?c=PEACE_MUSIC&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Boogle_Bollywood.png" group-title="Music1", Boogle Bollywood 
+https://durbinlive.com:443/live/jio?c=Boogle_Bollywood&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/iLove.png" group-title="Music1", iLove 
+https://durbinlive.com:443/live/jio?c=iLove&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Insync.png" group-title="Music1", Insync 
+https://durbinlive.com:443/live/jio?c=Insync&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SongDew_TV.png" group-title="Music1", SongDew TV 
+https://durbinlive.com:443/live/jio?c=SongDew_TV&q=auto&e=IshanJiotv.m3u8 
+
+
+
+
+
+
+
+
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png" group-title="Kids", Nick Hindi 
+https://durbinlive.com:443/live/jio?c=Nick_Hindi&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png" group-title="Kids", Pogo Hindi 
+https://durbinlive.com:443/live/jio?c=Pogo_Hindi&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="Kids", Cartoon Network Hindi 
+https://durbinlive.com:443/live/jio?c=Cartoon_Network_Hindi&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png" group-title="Kids", Sonic Hindi 
+https://durbinlive.com:443/live/jio?c=sonic_Hindi&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="Kids", Sony Yay Hindi 
+https://durbinlive.com:443/live/jio?c=Sony_Yay_Hindi&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon.png" group-title="Kids", Nickelodeon 
+https://durbinlive.com:443/live/jio?c=Nickelodeon&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_English.png" group-title="Kids", CN HD+ English 
+https://durbinlive.com:443/live/jio?c=CN_HD_English&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_2.png" group-title="Kids", Discovery Kids 2 
+https://durbinlive.com:443/live/jio?c=Discovery_Kids_2&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png" group-title="Kids", Nick Junior 
+https://durbinlive.com:443/live/jio?c=Nick_Junior&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Toonami.png" group-title="Kids", Testton 
+https://durbinlive.com:443/live/jio?c=Toonami&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon_Jr.png" group-title="Kids", Nickelodeon Jr. 
+https://durbinlive.com:443/live/jio?c=Nickelodeon_Jr&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Highbrow.png" group-title="Kids", Highbrow 
+https://durbinlive.com:443/live/jio?c=Highbrow&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD+.png" group-title="Kids", Nick HD+ 
+https://durbinlive.com:443/live/jio?c=Nick_HD_Plus&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_KIDS.png" group-title="Kids", Jio KIDS 
+https://durbinlive.com:443/live/jio?c=Jio_KIDS&q=auto&e=IshanJiotv.m3u8 
+
+
+
+
+
+
+
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket.png" group-title="Sports", Jio Cricket HD English 
+https://durbinlive.com:443/live/jio?c=Jio_Cricket&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_Hindi.png" group-title="Sports", Jio Cricket HD Hindi 
+https://durbinlive.com:443/live/jio?c=Jio_Cricket_Hindi&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_1_HD.png" group-title="Sports", Jio Cricket 1 HD 
+https://durbinlive.com:443/live/jio?c=Jio_Cricket_1_HD&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_2_HD.png" group-title="Sports", Jio Cricket 2 HD 
+https://durbinlive.com:443/live/jio?c=Jio_Cricket_2_HD&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_3.png" group-title="Sports", Jio Cricket 3 HD 
+https://durbinlive.com:443/live/jio?c=Jio_Cricket_3_HD&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_4_HD.png" group-title="Sports", Jio Cricket 4 HD 
+https://durbinlive.com:443/live/jio?c=Jio_Cricket_4_HD&q=auto&e=IshanJiotv.m3u8
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_5_HD.png" group-title="Sports", Jio Cricket 5 HD 
+https://durbinlive.com:443/live/jio?c=Jio_Cricket_5_HD&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_6_HD.png" group-title="Sports", Jio Cricket 6 HD 
+https://durbinlive.com:443/live/jio?c=Jio_Cricket_6_HD&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Esports_HD.png" group-title="Sports", Jio Esports HD 
+https://durbinlive.com:443/live/jio?c=Jio_Esports_HD&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football.png" group-title="Sports", Jio Football HD Eng 
+https://durbinlive.com:443/live/jio?c=Jio_Football&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_Hindi_HD.png" group-title="Ishan Jio Sports", Jio Football HD Hin 
+https://durbinlive.com:443/live/jio?c=Jio_Football_Hindi_HD&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_Bangali_HD.png" group-title="Sports", Jio Football HD Ban 
+https://durbinlive.com:443/live/jio?c=Jio_Football_Bangali_HD&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_Kannada_HD.png" group-title="Sports", Jio Football HD Kan 
+https://durbinlive.com:443/live/jio?c=Jio_Football_Kannada_HD&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_Malayalam_HD.png" group-title="Sports", Jio Football HD Mal 
+https://durbinlive.com:443/live/jio?c=Jio_Football_Malayalam_HD&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_Tamil_HD.png" group-title="Sports", Jio Football HD Tam 
+https://durbinlive.com:443/live/jio?c=Jio_Football_Tamil_HD&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_Telugu_HD.png" group-title="Sports", Jio Football HD Tel 
+https://durbinlive.com:443/live/jio?c=Jio_Football_Telugu_HD&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_1.png" group-title="Sports", Jio Football 1 HD 
+https://durbinlive.com:443/live/jio?c=Jio_Football_1&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_2.png" group-title="Sports", Jio Football 2 HD 
+https://durbinlive.com:443/live/jio?c=Jio_Football_2&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_3.png" group-title="Sports", Jio Football 3 HD 
+https://durbinlive.com:443/live/jio?c=Jio_Football_3&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="Sports", Sony Six HD 
+https://durbinlive.com:443/live/jio?c=Six_HD&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Six_HD_Bengali.png" group-title="Sports", Sony Six HD Bengali 
+https://durbinlive.com:443/live/jio?c=Sony_Six_HD_Bengali&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Six_HD_Malayalam.png" group-title="Sports", Sony Six HD Malayalam 
+https://durbinlive.com:443/live/jio?c=Sony_Six_HD_Malayalam&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Six_SD_Malayalam.png" group-title="Sports", Sony Six SD Malayalam 
+https://durbinlive.com:443/live/jio?c=Sony_Six_SD_Malayalam&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_HD_Tamil.png" group-title="Sports", Ten 4 HD Tamil 
+https://durbinlive.com:443/live/jio?c=Ten_4_HD_Tamil&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_HD_Telugu.png" group-title="Sports", Ten 4 HD Telugu 
+https://durbinlive.com:443/live/jio?c=Ten_4_HD_Telugu&q=auto&e=IshanJiotv.m3u8 
+https://durbinlive.com:443/live/jio?c=Ten_4_Telugu&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_Tamil.png" group-title="Sports", Ten 4 HD Telugu 
+https://durbinlive.com:443/live/jio?c=Ten_4_Tamil&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="Sports", Ten 1 HD 
+https://durbinlive.com:443/live/jio?c=Ten_HD&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="Sports", Ten 2 HD 
+https://durbinlive.com:443/live/jio?c=Ten2_HD&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="Sports", Ten 3 HD 
+https://durbinlive.com:443/live/jio?c=Ten3_HD&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports_HD.png" group-title="Sports", Eurosport HD 
+https://durbinlive.com:443/live/jio?c=Dsports_HD&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png" group-title="Sports", Ten 1 
+https://durbinlive.com:443/live/jio?c=Ten_1&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_2.png" group-title="Sports", Ten 2 
+https://durbinlive.com:443/live/jio?c=Ten_2&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png" group-title="Sports", Ten 3 
+https://durbinlive.com:443/live/jio?c=Ten_3&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Six_SD.png" group-title="Sports", Sony Six SD 
+https://durbinlive.com:443/live/jio?c=Sony_Six_SD&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sports.png" group-title="Sports", DD Sports 
+https://durbinlive.com:443/live/jio?c=DD_Sports&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports.png" group-title="Sports", Eurosport 
+https://durbinlive.com:443/live/jio?c=Dsports&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/1Sports.png" group-title="Sports", 1Sports 
+https://durbinlive.com:443/live/jio?c=1Sports&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MI_TV.png" group-title="Sports", MI TV 
+https://durbinlive.com:443/live/jio?c=MI_TV&q=auto&e=IshanJiotv.m3u8 
+
+
+
+
+
+
+
+
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png" group-title="Documentary1", Discovery HD World 
+https://durbinlive.com:443/live/jio?c=Discovery_HD_World&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="Documentary1", Sony BBC Earth HD 
+https://durbinlive.com:443/live/jio?c=Sony_BBC_Earth_HD&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/History_HD.png" group-title="Documentary1", History TV18 HD 
+https://durbinlive.com:443/live/jio?c=History_HD&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD.png" group-title="Documentary1", Animal Planet HD World 
+https://durbinlive.com:443/live/jio?c=Animal_Planet_HD&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png" group-title="Documentary1", Travel XP HD 
+https://durbinlive.com:443/live/jio?c=Travel_XP_HD&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png" group-title="Documentary1", Animal Planet Hindi 
+https://durbinlive.com:443/live/jio?c=Animal_Planet_Hindi&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png" group-title="Documentary1", Discovery Channel Hindi 
+https://durbinlive.com:443/live/jio?c=Discovery_Channel_Hindi&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Hindi.png" group-title="Documentary1", History TV18 HD Hindi 
+https://durbinlive.com:443/live/jio?c=History_18_Hindi&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Science.png" group-title="Documentary1", Discovery Science 
+https://durbinlive.com:443/live/jio?c=Discovery_Science&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Events.png" group-title="Documentary1", Jio Events HD 
+https://durbinlive.com:443/live/jio?c=Jio_Events&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_English.png" group-title="Documentary1", Animal Planet English 
+https://durbinlive.com:443/live/jio?c=Animal_Planet_English&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery.png" group-title="Documentary1", Discovery 
+https://durbinlive.com:443/live/jio?c=Discovery&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_SD.png" group-title="Documentary1", Sony BBC Earth SD 
+https://durbinlive.com:443/live/jio?c=Sony_BBC_Earth_SD&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Kisan.png" group-title="Documentary1", DD Kisan 
+https://durbinlive.com:443/live/jio?c=DD_Kisan&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Turbo.png" group-title="Documentary1", Discovery Turbo 
+https://durbinlive.com:443/live/jio?c=Discovery_Turbo&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_English.png" group-title="Documentary1", Sony BBC Earth HD English 
+https://durbinlive.com:443/live/jio?c=Sony_BBC_Earth_HD_English&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_bharati.png" group-title="Documentary1", DD bharati 
+https://durbinlive.com:443/live/jio?c=DD_bharati&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Care_World.png" group-title="Documentary1", Care World 
+https://durbinlive.com:443/live/jio?c=Care_World&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Insight.png" group-title="Documentary1", Insight 
+https://durbinlive.com:443/live/jio?c=Insight&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/YTV_INDIA.png" group-title="Documentary1", YTV India 
+https://durbinlive.com:443/live/jio?c=YTV_INDIA&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/History_TV18_SD.png" group-title="Documentary1", History TV18 SD 
+https://durbinlive.com:443/live/jio?c=History_TV18_SD&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TLC_HD_World.png" group-title="Documentary1", TLC HD 
+https://durbinlive.com:443/live/jio?c=TLC_HD_World&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Food_Food.png" group-title="Documentary1", Food Food 
+https://durbinlive.com:443/live/jio?c=Food_Food&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP.png" group-title="Documentary1", Travel XP HD Hindi 
+https://durbinlive.com:443/live/jio?c=Travel_XP&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TLC_English.png" group-title="Documentary1", TLC English 
+https://durbinlive.com:443/live/jio?c=TLC_English&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TLC_Hindi.png" group-title="Documentary1", TLC Hindi 
+https://durbinlive.com:443/live/jio?c=TLC_Hindi&q=auto&e=IshanJiotv.m3u8 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Click_Life.png" group-title="Documentary1", Click Life 
+https://durbinlive.com:443/live/jio?c=Click_Life&q=auto&e=IshanJiotv.m3u8 
+
+
+
+
+
