@@ -84,7 +84,7 @@ https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 #http://103.161.2.142/hls/channel24.m3u8
 
 #EXTINF:0 tvg-id="Channel9.il" group-title="Bangladesh"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/520px-Channel9_bd.svg.png",Channel 9
-http://103.161.2.142/hls/channel9.m3u8
+#http://103.161.2.142/hls/channel9.m3u8
 http://208.86.19.21/608.stream/index.m3u8
 
 #EXTINF:0 tvg-id="Channeli.uk" group-title="Bangladesh"tvg-logo="https://s6.gifyu.com/images/image33ddf62bcf70a5b9.png",Channel I
